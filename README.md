@@ -2,7 +2,7 @@
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me: wkurta247@gmail.com
+- 📫 How to reach me: wkurts247@gmail.com
 
 <!---
 gokkuu100/gokkuu100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
