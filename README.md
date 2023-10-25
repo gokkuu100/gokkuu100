@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gokkuu100
-- 👀 I’m interested in python coding
+- 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on full-stack projects
 - 📫 How to reach me: wkurts247@gmail.com
 
 <!---
