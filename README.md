@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Hope</h1>
-<h3 align="center">Computer Scientist, Certified fullstack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokkuu100&label=Profile%20views&color=0e75b6&style=flat" alt="gokkuu100" /> </p>
+<h3 align="center">Computer Scientist, Certified fullstack developer, Web Application Security Expert</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokkuu100" alt="gokkuu100" /></a> </p>
 
