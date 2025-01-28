@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokkuu100" alt="gokkuu100" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Ruby on Rails**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gokkuu100?tab=repositories](https://github.com/gokkuu100?tab=repositories)
 
